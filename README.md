@@ -12,7 +12,7 @@ Tento domácí úkol je povinný. Tj. musíš ho odevzdat, pokud chceš na konci
 
 3. V podkladech pro úkol máš připravený HTML a CSS soubor. V HTML je připravený obsah ve formě základních značek.
 
-4. Uprav HTML a CSS. V HTML přidej značky a CSS třídy tam, kde je potřeba. Napiš CSS, aby stránka vypadala jako na obrázku. Součástí podkladů je obrázek *vysledek.jpg*, kde uvidíš, jak má stránka vypadat. V souboru *zadani.jpg* najdeš potřebné rozměry, rozestupy mezi prvky, velikosti písma, barvy, apod.:
+4. Uprav HTML a CSS. V HTML přidej značky a CSS třídy tam, kde je potřeba. Napiš CSS, aby stránka vypadala jako na obrázku. Součástí podkladů je obrázek _vysledek.jpg_, kde uvidíš, jak má stránka vypadat. V souboru _zadani.jpg_ najdeš potřebné rozměry, rozestupy mezi prvky, velikosti písma, barvy, apod.:
 
 ![Zadání úkolu](zadani.jpg)
 
